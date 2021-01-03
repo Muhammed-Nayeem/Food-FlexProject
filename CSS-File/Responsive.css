@@ -1,0 +1,224 @@
+@media only screen and (min-width: 992px) and (max-width: 1280px)
+{
+  .Container
+  {
+    width: 970px;
+  }
+  .Showcase-Banner 
+  {
+    min-height: 75vh;
+  }
+  .Banner-Wrapper 
+  {
+    min-height: 75vh;
+  }
+  .Banner-Content 
+  {
+    padding: 0px 90px;
+  }
+  .About-Content 
+  {
+    flex-basis: 52%;
+  }
+  .About-Content p 
+  {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 0px;
+  }
+  .About-Imgae 
+  {
+    flex-basis: 45%;
+  }
+  .Testimoinals-Row 
+  {
+    min-height: 50vh;
+  }
+  .Testimonial-Claints 
+  {
+    padding: 20px 15px;
+  }
+  .Single-Testimonial 
+  {
+    flex-basis: 30%;
+    padding: 30px 12px;
+  }
+  .Contact-Row 
+  {
+    min-height: 55vh;
+    background-position: center;
+  }
+  .Contact-Wrapper
+  {
+    min-height: 55vh;
+  }
+  .Single-Contact-box 
+  {
+    padding: 35px 25px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px)
+{
+  .Container
+  {
+    width: 750px;
+  }
+  .Showcase-Banner 
+  {
+    min-height: 65vh;
+  }
+  .Banner-Wrapper
+  {
+    min-height: 65vh;
+  }
+  .Banner-Content
+  {
+    padding: 0px 38px;
+  }
+  .About-Content
+  {
+    flex-basis: 52%;
+  }
+  .About-Content p 
+  {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 0px;
+  }
+  .About-Extra-Text 
+  {
+    display: none;
+  }
+  .About-Imgae 
+  {
+    flex-basis: 46%;
+  }
+  .Testimoinals-Row 
+  {
+    min-height: 48vh;
+  }
+  .Testimonial-Claints 
+  {
+    padding: 30px 10px;
+  }
+  .Single-Testimonial 
+  {
+    flex-basis: 31%;
+    padding: 25px 10px;
+  }
+  .Single-Testimonial p 
+  {
+    font-size: 15px;
+    margin: 10px;
+  }
+  .Contact-Row 
+  {
+    min-height: 55vh;
+    background-position: center;
+  }
+  .Contact-Wrapper 
+  {
+    min-height: 55vh;
+  }
+  .Contact-Box 
+  {
+    padding: 30px 15px;
+  }
+  .Single-Contact-box 
+  {
+    flex-basis: 44%;
+    padding: 35px 15px;
+  }
+}
+
+@media only screen and (max-width: 767px)
+{
+  .Container
+  {
+    width: 320px;
+  }
+  .Header-Wrapper 
+  {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .Showcase-Banner 
+  {
+    min-height: 55vh;
+  }
+  .Banner-Wrapper 
+  {
+    min-height: 55vh;
+  }
+  .Banner-Content 
+  {
+    padding: 0px 10px;
+  }
+  .Banner-Content h2 
+  {
+    font-size: 42px;
+  }
+  .About-Content 
+  {
+    flex-basis: 100%;
+    margin-bottom: 30px;
+  }
+  .About-Imgae 
+  {
+    flex-basis: 100%;
+  }
+  .Single-Food 
+  {
+    flex-basis: 100%;
+  }
+  .Single-Expert 
+  {
+    flex-basis: 100%;
+    margin-bottom: 20px;
+  }
+  .Single-Testimonial 
+  {
+    flex-basis: 100%;
+    padding: 40px 8px;
+    margin-bottom: 15px;
+  }
+  .Contact-Row 
+  {
+    min-height: 55vh;
+    /* background-position: center; */
+  }
+  .Contact-Wrapper 
+  {
+    min-height: 55vh;
+  }
+  .Contact-Box 
+  {
+    padding: 30px 15px;
+  }
+  .Single-Contact-box 
+  {
+    flex-basis: 100%;
+    padding: 45px 15px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px)
+{
+  .Container
+  {
+    width: 450px;
+  }
+  .Menu-NavBar ul li a 
+  {
+    padding: 10px 10px;
+  }
+  .Single-Food 
+  {
+    flex-basis: 45%;
+  }
+  .Single-Expert 
+  {
+    flex-basis: 45%;
+  }
+}
